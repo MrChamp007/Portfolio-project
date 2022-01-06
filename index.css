@@ -1,0 +1,158 @@
+body{
+    font-family: poppins;
+    margin: 0%;
+}
+p{
+    color: #333333;
+    font-weight: normal;
+    margin-bottom: 7%;
+    margin-top: 5%;
+}
+.headline{
+    font-size: 30px;
+    border-left: 4px solid;
+    border-color: #008FCE;
+}
+.header-part{
+    display: flex;
+    width: 90%;
+}
+.header-left{
+    margin-left: 7%;
+    margin-top: 10%;
+}
+.header-right{
+    margin-left: 7%;
+}
+.header-one{
+    color: #333333;
+    margin: 0% 3%;
+}
+.header-two{
+    color: #FFAD5A;
+    margin: 0% 3%;
+}
+.button{
+    text-decoration: none;
+    background-color: #008FCE;
+    color: #ffffff;
+    padding: 10px 34px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+}
+.mission-part{
+    margin-top: 7%;
+}
+.mission-one{
+    color: #13103A;
+}
+.mission-two{
+    color: #FFAD5A;
+}
+.mission-a{
+    background-color: #cdf1f5;
+    margin-left: 7%;
+    padding: 3%;
+    border-radius: 7%;
+}
+.vission-a{
+    background-color: #ffe8e8;
+    margin-left: 3%;
+    padding: 3%;
+    border-radius: 7%;
+}
+.goal-a{
+    background-color: #FFF4D6;
+    margin-left: 3%;
+    padding: 3%;
+    border-radius: 7%;
+}
+.mission-para{
+    font-size: 14px;
+}
+.mission-all{
+    display: flex;
+    width: 90%;
+}
+.mission-image{
+    width: 30%;
+    height: auto;
+}
+.development-part{
+    display: flex;
+    width: 90%;
+    margin-left: 7%;
+    margin-top: 7%;
+}
+.development-image{
+    width: 80%;
+    height: auto;
+}
+.development-right{
+    margin-top: 2%;
+    margin-right: 7%;
+}
+.community-part{
+    display: flex;
+    width: 90%;
+    margin-top: 7%;
+}
+.community-left{
+    margin-left: 7%;
+    margin-top: 2%;
+    margin-right: 5%;
+}
+.community-image{
+    width: 80%;
+    height: auto;
+    margin-left: 2%;
+}
+.portfolio-part{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.portfolio-headline{
+    text-align: center;
+}
+.portfolio-image{
+    display: flex;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+.portfolio-one{
+    width: 30%;
+    height: auto;
+    margin-right: 3%;
+}
+.portfolio-two{
+    width: 30%;
+    height: auto;
+    margin-right: 3%;
+}
+.portfolio-three{
+    width: 30%;
+    height: auto;
+    margin-right: 3%;
+}
+.footer-main{
+    text-align: center;
+    margin: 0%;
+}
+footer{
+    background-color: #008FCE;
+    padding: 5% 40%;
+}
+.footer-one{
+    color: #ffffff;
+}
+.footer-two{
+    color: #FFAD5A;
+}
+.footer-para{
+    color: #ffffff;
+    text-align: center;
+    margin: 0%;
+    font-size: 12px;
+}
